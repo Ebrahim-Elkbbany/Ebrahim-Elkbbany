@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently a **Flutter volunteer at IEEEManCSC 💻** | **Mobile Application Developer 📱** .
+- 🔭 **Flutter Developer** | **Flutter volunteer at IEEEManCSC 💻** | **Mobile Application Developer 📱** .
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
