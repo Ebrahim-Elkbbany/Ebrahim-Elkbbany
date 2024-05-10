@@ -6,9 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 **Flutter Developer**  | **Mobile Application Developer 📱** .
-
-- 🌱 I’m currently learning **Advanced Flutter**.
+- **Flutter Developer 📱** .
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Ebrahim-Elkbbany?tab=repositories)**.
 
