@@ -16,8 +16,6 @@
 
 🚀 **Notable Project Domains:** E-Commerce & Retail, Healthcare & Booking, Enterprise ERPs, and Media/IPTV.
 
-🌱 I’m currently exploring advanced Flutter State Management (Clean Architecture, BLoC) and UI Animations.
-
 👨‍💻 All of my open-source projects are available at **[My Repository](https://github.com/Ebrahim-Elkbbany?tab=repositories)**.
 
 📫 How to reach me: **[ebrahimelkbbany74@gmail.com](mailto:ebrahimelkbbany74@gmail.com)**
@@ -42,15 +40,15 @@
 
 ## 📊 My GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ebrahim-Elkbbany&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Ebrahim-Elkbbany's Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahim-Elkbbany&langs_count=6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Ebrahim-Elkbbany's Top Languages" />
-</div>
+</p>
 
 <br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ebrahim-Elkbbany&theme=radical&hide_border=true&background=0D1117" alt="Ebrahim-Elkbbany's streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ebrahim-Elkbbany&theme=radical&hide_border=true&background=0D1117" alt="Ebrahim-Elkbbany's streak" />
+</p>
 
 <br/>
 
