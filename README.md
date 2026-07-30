@@ -22,14 +22,7 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Ebrahim-Elkbbany&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Ebrahim-Elkbbany Trophies" />
-  </a>
-</div>
 
-<br/>
 
 ## 🛠️ Languages and Tools
 <div align="center">
@@ -41,8 +34,8 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ebrahim-Elkbbany&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Ebrahim-Elkbbany's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahim-Elkbbany&langs_count=6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Ebrahim-Elkbbany's Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Ebrahim-Elkbbany&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Ebrahim-Elkbbany's Github Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ebrahim-Elkbbany&langs_count=6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Ebrahim-Elkbbany's Top Languages" />
 </p>
 
 <br/>
