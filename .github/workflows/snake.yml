@@ -14,6 +14,8 @@ jobs:
   build:
     name: Generate Snake
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk@v3
         with:
