@@ -37,10 +37,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ebrahim-Elkbbany&langs_count=6&layout=compact&hide_border=true&title_color=42A5F5&text_color=c9d1d9&bg_color=0D1117" alt="Ebrahim-Elkbbany's Top Languages" />
 </p>
 
-<br/>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ebrahim-Elkbbany&hide_border=true&background=0D1117&ring=42A5F5&fire=42A5F5&currStreakLabel=42A5F5&sideLabels=42A5F5&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="Ebrahim-Elkbbany's streak" />
-</p>
+
 
 <br/>
 
