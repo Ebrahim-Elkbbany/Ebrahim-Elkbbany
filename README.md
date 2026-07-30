@@ -1,16 +1,16 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ebrahim%20Elkbbany&fontSize=80&desc=Flutter%20Developer%20%7C%20Software%20Engineer%20at%20Serv5&descAlignY=70&descAlign=62&fontAlign=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ebrahim%20Elkbbany&fontSize=80&desc=Flutter%20Developer%20at%20Serv5&descAlignY=70&descAlign=62&fontAlign=50" />
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+a+Passionate+Flutter+Developer;Building+Awesome+Mobile+Apps!+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+a+Professional+Flutter+Developer;Building+Awesome+Mobile+Apps!+🚀" />
 </div>
 
 <br/>
 
 ## 👨‍💻 About Me
 
-💼 I’m currently working as a **Software Engineer** at **Serv5**.
+💼 I’m currently working as a **Flutter Developer** at **Serv5**.
 
 📱 I have architected and developed numerous scalable Flutter Applications.
 
