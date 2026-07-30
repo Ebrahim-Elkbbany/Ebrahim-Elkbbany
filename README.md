@@ -12,7 +12,7 @@
 
 💼 I’m currently working as a **Software Engineer** at **Serv5**.
 
-📱 I have architected and developed over **50+ Flutter Applications**.
+📱 I have architected and developed numerous scalable Flutter Applications.
 
 🚀 **Notable Project Domains:** E-Commerce & Retail, Healthcare & Booking, Enterprise ERPs, and Media/IPTV.
 
