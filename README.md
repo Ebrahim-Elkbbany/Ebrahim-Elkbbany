@@ -10,16 +10,17 @@
 
 ## 👨‍💻 About Me
 
-- 💼 I’m currently working as a **Software Engineer** at **Serv5**.
-- 📱 I have architected and developed over **50+ Flutter Applications**, including E-Commerce, ERPs, IPTV, Healthcare, and Education platforms.
-- 🚀 **Notable Project Domains:** 
-  - 🛒 **E-Commerce & Retail:** Wenzela, PizzaPlaza, Shoply, Swift-Cart, Souq Al-Asal.
-  - 🏥 **Healthcare & Booking:** DocDoc, Maskanak, Labor App.
-  - 🏢 **Enterprise & Management:** Van Sales ERP, Serv5 Base, Call Center.
-  - 🎬 **Media & Entertainment:** IPTV, Movies App, Cinemax, Primo TV.
-- 🌱 I’m currently exploring advanced Flutter State Management (Clean Architecture, BLoC) and UI Animations.
-- 👨‍💻 All of my open-source projects are available at **[My Repository](https://github.com/Ebrahim-Elkbbany?tab=repositories)**.
-- 📫 How to reach me: **[ebrahimelkbbany74@gmail.com](mailto:ebrahimelkbbany74@gmail.com)**
+💼 I’m currently working as a **Software Engineer** at **Serv5**.
+
+📱 I have architected and developed over **50+ Flutter Applications**.
+
+🚀 **Notable Project Domains:** E-Commerce & Retail, Healthcare & Booking, Enterprise ERPs, and Media/IPTV.
+
+🌱 I’m currently exploring advanced Flutter State Management (Clean Architecture, BLoC) and UI Animations.
+
+👨‍💻 All of my open-source projects are available at **[My Repository](https://github.com/Ebrahim-Elkbbany?tab=repositories)**.
+
+📫 How to reach me: **[ebrahimelkbbany74@gmail.com](mailto:ebrahimelkbbany74@gmail.com)**
 
 <br/>
 
@@ -42,26 +43,13 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <a href="https://github.com/Ebrahim-Elkbbany/github-readme-stats">
-          <img height="180em" alt="Ebrahim-Elkbbany's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ebrahim-Elkbbany&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ebrahim-Elkbbany/github-readme-stats">
-          <img height="180em" alt="Ebrahim-Elkbbany's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahim-Elkbbany&langs_count=6&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <a href="https://github.com/Ebrahim-Elkbbany/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ebrahim-Elkbbany's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ebrahim-Elkbbany&theme=radical&hide_border=true&background=0D1117"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ebrahim-Elkbbany&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Ebrahim-Elkbbany's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahim-Elkbbany&langs_count=6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Ebrahim-Elkbbany's Top Languages" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ebrahim-Elkbbany&theme=radical&hide_border=true&background=0D1117" alt="Ebrahim-Elkbbany's streak" />
 </div>
 
 <br/>
